@@ -1,6 +1,12 @@
 universal_robot
 ===============
 
+This repository was cloned from the original mentioned below in September 2023 to support the course ES 159 Introduction to Robotics.
+
+Robin Webber, 4 September 2023
+
+--------------
+
 This repository provides ROS support for the universal robots.  This repo holds source code for all versions > groovy.  For those versions <= groovy see: hg https://kforge.ros.org/ros_industrial/universal_robot
 
 To check that the package works with a UR5, set up a catkin workspace and clone the repository into the src/ folder. It should look like ~/catkin_ws/src/universal_robot. Don't forget to source the setup file ($ source ~/catkin_ws/devel/setup.*sh), then use catkin_make to compile.
