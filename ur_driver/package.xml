@@ -52,7 +52,7 @@
   <run_depend>rospy</run_depend>
   <run_depend>sensor_msgs</run_depend>
   <run_depend>trajectory_msgs</run_depend>
-  <run_depend>python-beautifulsoup</run_depend>
+  <run_depend>python3-bs4</run_depend>
 
 
   <!-- The export tag contains other, unspecified, tags -->
